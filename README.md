@@ -8,3 +8,8 @@ To run the notebook effectively, create a file named 'data' in the same folder a
 ![Screenshot (26)](https://user-images.githubusercontent.com/68612270/91799173-584c9300-ebdb-11ea-8f42-3fe29f8ef430.png)
 ![chart](https://user-images.githubusercontent.com/68612270/91799177-5a165680-ebdb-11ea-9ab8-d6e5e77277d8.png)
 ![heatmap](https://user-images.githubusercontent.com/68612270/91799179-5aaeed00-ebdb-11ea-832f-93866fd5dc58.png)
+![scrape](https://user-images.githubusercontent.com/68612270/91799970-03aa1780-ebdd-11ea-97a3-e9539c8238f8.png)
+![scrape2](https://user-images.githubusercontent.com/68612270/91800012-17ee1480-ebdd-11ea-9587-12dfa2d51ef6.png)
+![conclusions](https://user-images.githubusercontent.com/68612270/91800042-24726d00-ebdd-11ea-96c3-acd72b38fd0d.png)
+![final](https://user-images.githubusercontent.com/68612270/91800098-3eac4b00-ebdd-11ea-9651-d7c98155c277.png)
+![heatmap2](https://user-images.githubusercontent.com/68612270/91800114-44a22c00-ebdd-11ea-8174-850b6d109066.png)
