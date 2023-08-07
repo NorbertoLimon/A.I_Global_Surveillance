@@ -1,5 +1,0 @@
-Go back to the BRI project:
---> touch up on formalized metrics. (Apply the t-test, chi-squared to see if relationhship between:
-1) the use of A.I. for law enforcement (or one of the big three applications) and scores on HRI
-2) A nation's participation in BRI (or not) and its score on Corruption related index
-3) A nation's engagement in U.S. led partnerships and score on Corruption related index
